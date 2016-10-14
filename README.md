@@ -8,4 +8,6 @@
 
 ![imagen RTF](RTF.png)
 
+[Ghostscript](http://www.ghostscript.com/)
+
 ![imagen PS](PS.png)
