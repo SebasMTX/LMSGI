@@ -1,2 +1,3 @@
-# Prácticas Tema 1 LMSGI
-a ver lo que sale de esta
+# LMSGI Tarea 1
+#### Creación de repositorio y publicación de archivos creados
+sasssdddd
