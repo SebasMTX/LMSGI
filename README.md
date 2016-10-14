@@ -1,4 +1,5 @@
 # LMSGI Tarea 1
 #### Creación de repositorio y publicación de archivos creados
-![link a HTML](HTML.png)
+![imagen HTML](HTML.png)
+![imagen XML CSS](XML CSS.png)
 
