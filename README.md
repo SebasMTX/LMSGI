@@ -19,7 +19,7 @@ Utilizando el navegador `Safari`, el resultado obtenido con el código redactado
 ![imagen HTML](HTML.png)
 #### HTML con CSS (Hoja de estilo en cascada, del inglés de _Cascading Style Sheets_)
 
-Para probar el funcionamiento del código escrito en el archivo _CSS.css_, se ha modificado el documento _HTML.html_ para enlazarlos y que se aplicaran los atributos en el primero establecidos, generando un nuevo archivo llamado _HTML CON CSS.html_. De la misma manera que con el archivo anterior se ha utilizado el navegador `Safari` para probar su funcionamiento, obteniendo el siguiente resultado:
+Para probar el funcionamiento del código escrito en el archivo _CSS.css_, se ha modificado el documento _HTML.html_ para enlazarlos y que se aplicatributos en el primero establecidos, generando un nuevo archivo llamado _HTML CON CSS.html_. De la misma manera que con el archivo anterior se ha utilizado el navegador `Safari` para probar su funcionamiento, obteniendo el siguiente resultado:
 
 ![imagen HTML CSS](HTML CSS.png)
 
@@ -33,8 +33,13 @@ Dado que el los contenidos del temario no existe código alguno escrito en _XML_
 
 >Página consultada y que contiene el código _HTML_ y _CSS_: http://www.mclibre.org/consultar/xml/lecciones/xml_css.html
 
-### RFT
+#### RFT (Formato de texto enriquecido, del inglés _Rich Text Format_) 
+
+Tras crear el archivo con el `bloc de notas` y cambiar la extensión a _.rtf_ se prueba su funcionamiento con la aplicación `wordpad`, mostrando el siguiente resultado:
 
 ![imagen RTF](RTF.png)
+
+#### PS (Lenguaje de descripción de páginas o Postscript, en inglés _Page Description Language PDL_)
+
 El link al visor de documentos PostScript llamado [Ghostscript](http://www.ghostscript.com/)
 ![imagen PS](PS.png)
