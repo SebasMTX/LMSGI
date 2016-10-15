@@ -1,7 +1,7 @@
 # LMSGI Tarea 1
 #### Creación de repositorio y publicación de archivos creados
 Para la realización de la tarea se han seguido los siguientes pasos:
-* Crear un documento de texto plano con el `Bloc de notas` de Windows, con el código de cada uno de los leguajes de marcas incluído en el contenido del temario.
+* Crear un documento de texto plano con el `Bloc de notas` de Windows, con el código de cada uno de los leguajes de marcas incluidos en el contenido del temario.
 * Modificar la extensión del archivo creado para hacerla coincidir con el código de lenguaje de marcas que contiene. Concretamente se han creado los siguientes archivos finales:
  * _HTML.html_
  * _HTML CON CSS.html_
@@ -19,7 +19,7 @@ Utilizando el navegador `Safari`, el resultado obtenido con el código redactado
 ![imagen HTML](HTML.png)
 #### HTML con CSS (Hoja de estilo en cascada, del inglés de _Cascading Style Sheets_)
 
-Para probar el funcionamiento del código escrito en el archivo _CSS.css_, se ha modificado el documento _HTML.html_ para enlazarlos y que se aplicatributos en el primero establecidos, generando un nuevo archivo llamado _HTML CON CSS.html_. De la misma manera que con el archivo anterior se ha utilizado el navegador `Safari` para probar su funcionamiento, obteniendo el siguiente resultado:
+Para probar el funcionamiento del código escrito en el archivo _CSS.css_, se ha modificado el documento _HTML.html_ para enlazarlos y que se aplicaquen los atributos en el primero establecidos, generando un nuevo archivo llamado _HTML CON CSS.html_. De la misma manera que con el archivo anterior se ha utilizado el navegador `Safari` para probar su funcionamiento, obteniendo el siguiente resultado:
 
 ![imagen HTML CSS](HTML CSS.png)
 
@@ -27,7 +27,7 @@ Para probar el funcionamiento del código escrito en el archivo _CSS.css_, se ha
 
 #### XML con CSS (Lenguaje de marcas extensible, del inglés _eXtensible Markup Language_)
 
-Dado que el los contenidos del temario no existe código alguno escrito en _XML_, se ha utilizado uno descargado de `Internet`, vículándolo a un archivo _CSS_ para probar su funcionamiento en el navegador. Se han generado dos archivos, el primero llamado _XML.xml_ con el código y el segundo _CSS PARA XML.css_ con la hoja de estilos para el primero, obteniendo el siguiente resulatado al ejecutarlo con `Safari`:
+Dado que el los contenidos del temario no existe código alguno escrito en _XML_, se ha utilizado uno descargado de `Internet`, vinculándolo a un archivo _CSS_ para probar su funcionamiento en el navegador. Se han generado dos archivos, el primero llamado _XML.xml_ con el código y el segundo _CSS PARA XML.css_ con la hoja de estilos para el primero, obteniendo el siguiente resultado al ejecutarlo con `Safari`:
 
 ![imagen XML CSS](XML CSS.png)
 
