@@ -26,9 +26,14 @@ Para probar el funcionamiento del código escrito en el archivo _CSS.css_, se ha
 
 >Para enlazar los CSS se han seguido los pasos relacionados en esta web: http://librosweb.es/foro/pregunta/16/como-enlazar-los-css-con-html/>
 
-*** XML con CSS
+### XML con CSS
+
+Dado que el los contenidos del temario no existe código alguno escrito en _XML_, se ha utilizado uno descargado de `Internet`, vículándolo a un archivo _CSS_ para probar su funcionamiento en el navegador. Se han generado dos archivos, el primero llamado _XML.xml_ con el código y el segundo _CSS PARA XML.css_ con la hoja de estilos para el primero, obteniendo el siguiente resulatado al ejecutarlo con `Safari`:
 
 ![imagen XML CSS](XML CSS.png)
+
+>Página consultada y que contiene el código _HTML_ y _CSS_: http://www.mclibre.org/consultar/xml/lecciones/xml_css.html
+
 ![imagen RTF](RTF.png)
 El link al visor de documentos PostScript llamado [Ghostscript](http://www.ghostscript.com/)
 ![imagen PS](PS.png)
