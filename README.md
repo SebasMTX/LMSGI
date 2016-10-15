@@ -41,7 +41,7 @@ Tras crear el archivo con el `bloc de notas` y cambiar la extensión a _.rtf_ se
 
 #### PS (Lenguaje de descripción de páginas o Postscript, en inglés _Page Description Language PDL_)
 
-Una vez generado el archivo _PS.ps_ conteniendo el código, es necesario un visor para comprobar su funcionamiento. Se selecciona el visor llamado [Ghostscript](http://www.ghostscript.com/) y, tras instalarlo y utilizarlo para abrir el documento _.rft_, muestra podemos ver el funcionamiento del código creado:
+Una vez generado el archivo _PS.ps_ conteniendo el código, es necesario un visor para comprobar su funcionamiento. Se selecciona el visor llamado [Ghostscript](http://www.ghostscript.com/) y, tras instalarlo y utilizarlo para abrir el documento _.rft_, podemos visualizar el funcionamiento del código creado:
 
 ![imagen PS](PS.png)
 
