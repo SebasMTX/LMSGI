@@ -35,11 +35,13 @@ Dado que el los contenidos del temario no existe código alguno escrito en _XML_
 
 #### RFT (Formato de texto enriquecido, del inglés _Rich Text Format_) 
 
-Tras crear el archivo con el `bloc de notas` y cambiar la extensión a _.rtf_ se prueba su funcionamiento con la aplicación `wordpad`, mostrando el siguiente resultado:
+Tras crear el archivo con el `bloc de notas` y cambiar la extensión a _.rtf_ se genera el documento llamado RTF.rtf, probando su funcionamiento con la aplicación `wordpad` con el siguiente resultado:
 
 ![imagen RTF](RTF.png)
 
 #### PS (Lenguaje de descripción de páginas o Postscript, en inglés _Page Description Language PDL_)
 
-El link al visor de documentos PostScript llamado [Ghostscript](http://www.ghostscript.com/)
+Una vez generado el archivo _PS.ps_ conteniendo el código, es necesario un visor para comprobar su funcionamiento. Se selecciona el visor llamado [Ghostscript](http://www.ghostscript.com/) y, tras instalarlo y utilizarlo para abrir el documento _.rft_, muestra podemos ver el funcionamiento del código creado:
+
 ![imagen PS](PS.png)
+
