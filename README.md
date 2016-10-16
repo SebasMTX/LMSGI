@@ -31,7 +31,7 @@ Dado que el los contenidos del temario no existe código alguno escrito en _XML_
 
 ![imagen XML CSS](XML CSS.png)
 
->Página consultada y que contiene el código _HTML_ y _CSS_: http://www.mclibre.org/consultar/xml/lecciones/xml_css.html
+>La página consultada y que contiene el código _HTML_ y _CSS_ es [esta](http://www.mclibre.org/consultar/xml/lecciones/xml_css.html)
 
 #### RFT (Formato de texto enriquecido, del inglés _Rich Text Format_) 
 
