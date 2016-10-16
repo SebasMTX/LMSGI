@@ -45,7 +45,8 @@ Una vez generado el archivo _PS.ps_ conteniendo el código, es necesario un viso
 
 ![imagen PS](PS.png)
 
->Además de los archivos mencionados anteriormente, en el repositorio también se han subido las imágenes correspondientes a las capturas de pantalla probando el funcionamiento de cada uno de los idiomas y que han servido para ilustrar esta explicacón. Los archivos de imagen creados son:  
+>Además de los archivos mencionados anteriormente, en el repositorio también se han subido las imágenes correspondientes a las capturas de pantalla probando el funcionamiento de cada uno de los idiomas y que han servido para ilustrar esta explicacón.  
+Los archivos de imagen creados son:  
   1. _HTML.png_  
   2. _HTML CSS.png_
   3. _PS.png_
