@@ -35,7 +35,7 @@ Dado que el los contenidos del temario no existe código alguno escrito en _XML_
 
 #### RFT (Formato de texto enriquecido, del inglés _Rich Text Format_) 
 
-Tras crear el archivo con el `bloc de notas` y cambiar la extensión a _.rtf_ se genera el documento llamado RTF.rtf, probando su funcionamiento con la aplicación `wordpad` con el siguiente resultado:
+Tras crear el archivo con el `bloc de notas` y cambiar la extensión a _.rtf_ se genera el documento llamado _RTF.rtf_, probando su funcionamiento con la aplicación `wordpad` con el siguiente resultado:
 
 ![imagen RTF](RTF.png)
 
@@ -45,3 +45,6 @@ Una vez generado el archivo _PS.ps_ conteniendo el código, es necesario un viso
 
 ![imagen PS](PS.png)
 
+>Además de los archivos mencionados anteriormente, en el repositorio también se han subido las imágenes correspondientes a las capturas de pantalla probando el funcionamiento de cada uno de los idiomas y que han servido para ilustrar esta explicacón. Los archivos de imagen creados son:
+1. HTML.png
+2. HTML CON CSS.png
