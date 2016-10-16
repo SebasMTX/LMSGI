@@ -46,7 +46,7 @@ Una vez generado el archivo _PS.ps_ conteniendo el código, es necesario un viso
 
 ![imagen PS](PS.png)
 
->Además de los archivos mencionados anteriormente, también se han subido al repositorio **las imágenes correspondientes a las capturas de pantalla** probando el funcionamiento de cada uno de los idiomas y que han servido para ilustrar esta explicación.  
+>Además de los archivos mencionados anteriormente, también se han subido al repositorio **las imágenes correspondientes a las capturas de pantalla** probando el funcionamiento de cada uno de los lenguajes y que han servido para ilustrar esta explicación.  
 Los archivos de imagen creados son:  
   1. _HTML.png_  
   2. _HTML CSS.png_
@@ -58,4 +58,4 @@ Los archivos de imagen creados son:
 #### Creación del repositorio y finalización de la práctica.
 
 Finalmente, accediendo a [_Github_](www.github.com) crearemos una nueva cuenta, subiendo a ella todos los documentos e imágenes generados.  
-Para modificar el archivo _Readme.md_ utilizaremos el lenguaje de marcado ligero _Markdown_, describiendo todos los pasos seguidos en la resolución de la práctica.
+Para modificar el archivo _Readme.md_ **utilizaremos el lenguaje de marcado ligero _Markdown_**, describiendo todos los pasos seguidos en la resolución de la práctica.
