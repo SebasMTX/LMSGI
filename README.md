@@ -19,7 +19,7 @@ Utilizando el navegador `Safari`, el resultado obtenido con el código redactado
 ![imagen HTML](HTML.png)
 #### HTML con CSS (Hoja de estilo en cascada, del inglés de _Cascading Style Sheets_)
 
-Para probar el funcionamiento del código escrito en el archivo _CSS.css_, se ha modificado el documento _HTML.html_ para enlazarlos y que se aplicaquen los atributos en el primero establecidos, generando un nuevo archivo llamado _HTML CON CSS.html_. De la misma manera que con el archivo anterior se ha utilizado el navegador `Safari` para probar su funcionamiento, obteniendo el siguiente resultado:
+Para probar el funcionamiento del código escrito en el archivo _CSS.css_, se ha modificado el documento _HTML.html_ para enlazarlos y que se apliquen los atributos en el primero establecidos, generando un nuevo archivo llamado _HTML CON CSS.html_. De la misma manera que con el archivo anterior, se ha utilizado el navegador `Safari` para probar su funcionamiento, obteniendo el siguiente resultado:
 
 ![imagen HTML CSS](HTML CSS.png)
 
