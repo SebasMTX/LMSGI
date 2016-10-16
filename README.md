@@ -1,16 +1,16 @@
 # LMSGI Tarea 1
 #### Creación de repositorio y publicación de archivos creados
 Para la realización de la tarea se han seguido los siguientes pasos:
-1. Crear un documento de texto plano con el `Bloc de notas` de Windows, con el código de cada uno de los leguajes de marcas incluidos en el contenido del temario.
-2. Modificar la extensión del archivo creado para hacerla coincidir con el código de lenguaje de marcas que contiene. Concretamente se han creado los siguientes archivos finales:
+1.Crear un documento de texto plano con el `Bloc de notas` de Windows, con el código de cada uno de los leguajes de marcas incluidos en el contenido del temario.
+2.Modificar la extensión del archivo creado para hacerla coincidir con el código de lenguaje de marcas que contiene. Concretamente se han creado los siguientes archivos finales:
  * _HTML.html_
  * _HTML CON CSS.html_
  * _CSS.css_
  * _XML.xml_
  * _RTF.rtf_
  * _PS.ps_
-3. Probar el funcionamiento en la aplicación apropiada.
-4. Crear un repositorio en [_Github_](www.github.com), subir los archivos creados y redactar una explicación de lo realizado modificando para ello el archivo _readme.md_ contenido en el repositorio.
+3.Probar el funcionamiento en la aplicación apropiada.
+4.Crear un repositorio en [_Github_](www.github.com), subir los archivos creados y redactar una explicación de lo realizado modificando para ello el archivo _readme.md_ contenido en el repositorio.
 
 #### HTML (Lenguaje de marcas de hipertexto, del inglés _HyperText Markup Language_)
 
