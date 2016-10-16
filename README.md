@@ -10,7 +10,7 @@ Para la realización de la tarea se han seguido los siguientes pasos:
  * _RTF.rtf_
  * _PS.ps_
 * Probar el funcionamiento en la aplicación apropiada.
-Crear un repositorio en [_Github_](www.github.com), subir los archivos creados y redactar una explicación de lo realizado modificando para ello el archivo _readme.md_ contenido en el repositorio.
+* Crear un repositorio en [_Github_](www.github.com), subir los archivos creados y redactar una explicación de lo realizado modificando para ello el archivo _readme.md_ contenido en el repositorio.
 
 #### HTML (Lenguaje de marcas de hipertexto, del inglés _HyperText Markup Language_)
 
@@ -53,3 +53,8 @@ Los archivos de imagen creados son:
   4. _RTF.png_
   5. _XML CSS.png_
 [FIREFOX]:https://www.mozilla.org/es-MX/firefox/new/?gclid=CJeJ5e7a388CFQYq0wod0M4EUg
+
+#### Creación de repositorio
+
+Finalmente, accediendo a [_Github_](www.github.com) crearemos una nueva cuenta, subiendo a ella todos los documentos e imágenes generados.  
+Para modificar el archivo _Readme.md_ utilizaremos el lenguaje de marcado ligero _Markdown_, describiendo todos los pasos seguidos en la resolución de la práctica.
