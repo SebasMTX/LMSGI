@@ -23,7 +23,7 @@ Para probar el funcionamiento del código escrito en el archivo _CSS.css_, se ha
 
 ![imagen HTML CSS](HTML CSS.png)
 
->Para enlazar los CSS se han seguido los pasos relacionados en [esta web.](http://librosweb.es/foro/pregunta/16/como-enlazar-los-css-con-html/)>
+>Para enlazar los CSS se han seguido los pasos relacionados en [esta web.](http://librosweb.es/foro/pregunta/16/como-enlazar-los-css-con-html/)
 
 #### XML con CSS (Lenguaje de marcas extensible, del inglés _eXtensible Markup Language_)
 
@@ -31,7 +31,7 @@ Dado que el los contenidos del temario no existe código alguno escrito en _XML_
 
 ![imagen XML CSS](XML CSS.png)
 
->La página consultada y que contiene el código _HTML_ y _CSS_ es [esta.](http://www.mclibre.org/consultar/xml/lecciones/xml_css.html)>
+>La página consultada y que contiene el código _HTML_ y _CSS_ es [esta.](http://www.mclibre.org/consultar/xml/lecciones/xml_css.html)
 
 #### RFT (Formato de texto enriquecido, del inglés _Rich Text Format_) 
 
@@ -51,4 +51,4 @@ Los archivos de imagen creados son:
   2. _HTML CSS.png_
   3. _PS.png_
   4. _RTF.png_
-  5. _XML CSS.png_>
+  5. _XML CSS.png_
