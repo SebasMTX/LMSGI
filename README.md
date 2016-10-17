@@ -28,7 +28,7 @@ De la misma manera que con el archivo anterior, se ha utilizado el navegador [`F
 
 #### XML con CSS (Lenguaje de marcas extensible, del inglés _eXtensible Markup Language_)
 
-Dado que el los contenidos del temario no existe código alguno escrito en _XML_, se ha utilizado uno descargado de `Internet`, vinculándolo a un archivo _CSS_ para probar su funcionamiento en el navegador. Se han generado dos archivos, el primero llamado _XML.xml_ con el código y el segundo _CSS PARA XML.css_ con la hoja de estilos para el primero, obteniendo el siguiente resultado al ejecutarlo con [`Firefox`][FIREFOX]:
+Dado que en el contenido del temario no existe código alguno escrito en _XML_, se ha utilizado uno descargado de `Internet`, vinculándolo a un archivo _CSS_ para probar su funcionamiento en el navegador. Se han generado dos archivos, el primero llamado _XML.xml_ con el código y el segundo _CSS PARA XML.css_ con la hoja de estilos para el primero, obteniendo el siguiente resultado al ejecutarlo con [`Firefox`][FIREFOX]:
 
 ![imagen XML CSS](XML CSS.png)
 
@@ -36,7 +36,7 @@ Dado que el los contenidos del temario no existe código alguno escrito en _XML_
 
 #### RFT (Formato de texto enriquecido, del inglés _Rich Text Format_) 
 
-Tras crear el archivo con el `bloc de notas` y cambiar la extensión a _.rtf_ se genera el documento llamado _RTF.rtf_, probando su funcionamiento con la aplicación `wordpad` con el siguiente resultado:
+Tras crear el archivo con el `Bloc de notas` y cambiar la extensión a _.rtf_ se genera el documento llamado _RTF.rtf_, probando su funcionamiento con la aplicación `Wordpad` con el siguiente resultado:
 
 ![imagen RTF](RTF.png)
 
